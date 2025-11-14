@@ -10,8 +10,10 @@ As mentioned before, the poems that were selected had the criterium of female au
 
 The data has manually been collected from [Brycchan Carey's website](https://brycchancarey.com/slavery/poetry.htm), who provides a preselection of antislavery poems in digital format. The metadata has also been manually created.
 
-## Preproccesing
-/t and /n have been removed from the .txt files. The tokenization and lemmatization was performed using the spaCy library for python. The code can be reviewed in the Jupyter Notebook in this repo.
+## Cleaning and Preproccesing
+In general the textual data was of very good quality. One data cleaning measure i took was removing whitespaces between word characters in titles for the purpose of better tokenization. (P O E M --> POEM)
+
+/t and /n have been removed from the text before tokenizing. The tokenization and lemmatization were performed using the spaCy library for python. The code can be reviewed in the Jupyter Notebook in this repo.
 
 ## Data Formats
 The data is provided in .txt format. The metadata and the annotation data are provided as .csv files.
