@@ -1,20 +1,20 @@
-Title,Year,Author,Filename,Link
-"Epistle to William Wilberforce, Esq. On the Rejection of the Bill for Abolishing the Slave Trade",1791,Anna Letitia Barbauld,Barbauld_1791.txt,https://brycchancarey.com/slavery/barbauld1.htm
-The Little Black Boy,1789,William Blake,Blake_1789.txt,https://brycchancarey.com/slavery/blake1.htm
-The Slave's Lament,1792,Robert Burns,Burns_1792.txt,https://brycchancarey.com/slavery/burnspoem.htm
-A Poem on the African Slave Trade. Addressed to her own Sex. Part I,1792,Mary Birkett Card,Card_1792_1.txt,https://brycchancarey.com/slavery/mbc1.htm
-A Poem on the African Slave Trade. Addressed to her own Sex. Part II,1792,Mary Birkett Card,Card_1792_2.txt,https://brycchancarey.com/slavery/mbc2.htm
-"The Dying Negro, a poem",1775,Thomas Day and John Bicknell,Day_Bicknell_1775.txt,https://brycchancarey.com/slavery/dying.htm
-"Epilogue to ""The Padlock""",1787,Anonymous,ANONYMOUS_1787.txt,https://brycchancarey.com/slavery/padlock1.htm
-Poems on Slavery,1788,Maria and Harriet Falconar,Falconar_1788.txt,https://brycchancarey.com/slavery/falconar.htm
-The Fall of Slavery,1838,John Harris,Harris_1838.txt,https://brycchancarey.com/slavery/harris1.htm
-"Slavery, A Poem",1788,Hannah More,More_1788.txt,https://brycchancarey.com/slavery/morepoems.htm
-The Sorrows of Yamba,1797,Hannah More and Eaglesfield Smith,More_1797.txt,https://brycchancarey.com/slavery/yamba.htm
-"The Wrongs of Almoona, or the African's Revenge",1788,Peter Newby,Newby_1788.txt,https://brycchancarey.com/slavery/almoona.htm
-"The Wrongs of Africa, Part the First",1786,William Roscoe,Roscoe_1786_1.txt,https://brycchancarey.com/slavery/roscoe1.htm
-"The Wrongs of Africa, Part the Second",1786,William Roscoe,Roscoe_1786_2.txt,https://brycchancarey.com/slavery/roscoe2.htm
-West-Indian Eclogues,1787,Edward Rushton,Rushton_1787.txt,https://brycchancarey.com/slavery/rushton.htm
-The Slave Ship,1846,Anonymous,ANONYMOUS_1846.txt,https://brycchancarey.com/slavery/slaveship.htm
-To Thomas Clarkson. On the Final Passing of the Bill for the Abolition of the Slave Trade,1807,William Wordsworth,Wordsworth_1807_Clarkson.txt,https://brycchancarey.com/slavery/wordpoems.htm#clarkson
-To Toussaint L'Overture,1807,William Wordsworth,Wordsworth_1807_LOuverture.txt,https://brycchancarey.com/slavery/wordpoems.htm#overture
-A Poem on the Inhumanity of the Slave Trade,1788,Ann Yearsley,Yearsly_1788.txt,https://brycchancarey.com/slavery/yearsley1.htm
+Title,Year,Author,AuthorGender,Filename,Link
+"Epistle to William Wilberforce, Esq. On the Rejection of the Bill for Abolishing the Slave Trade",1791,Anna Letitia Barbauld,F,Barbauld_1791.txt,https://brycchancarey.com/slavery/barbauld1.htm
+The Little Black Boy,1789,William Blake,M,Blake_1789.txt,https://brycchancarey.com/slavery/blake1.htm
+The Slave's Lament,1792,Robert Burns,M,Burns_1792.txt,https://brycchancarey.com/slavery/burnspoem.htm
+A Poem on the African Slave Trade. Addressed to her own Sex. Part I,1792,Mary Birkett Card,F,Card_1792_1.txt,https://brycchancarey.com/slavery/mbc1.htm
+A Poem on the African Slave Trade. Addressed to her own Sex. Part II,1792,Mary Birkett Card,F,Card_1792_2.txt,https://brycchancarey.com/slavery/mbc2.htm
+"The Dying Negro, a poem",1775,Thomas Day and John Bicknell,M,Day_Bicknell_1775.txt,https://brycchancarey.com/slavery/dying.htm
+"Epilogue to ""The Padlock""",1787,Anonymous,Unkown,ANONYMOUS_1787.txt,https://brycchancarey.com/slavery/padlock1.htm
+Poems on Slavery,1788,Maria and Harriet Falconar,F,Falconar_1788.txt,https://brycchancarey.com/slavery/falconar.htm
+The Fall of Slavery,1838,John Harris,M,Harris_1838.txt,https://brycchancarey.com/slavery/harris1.htm
+"Slavery, A Poem",1788,Hannah More,F,More_1788.txt,https://brycchancarey.com/slavery/morepoems.htm
+The Sorrows of Yamba,1797,Hannah More and Eaglesfield Smith,F,More_1797.txt,https://brycchancarey.com/slavery/yamba.htm
+"The Wrongs of Almoona, or the African's Revenge",1788,Peter Newby,M,Newby_1788.txt,https://brycchancarey.com/slavery/almoona.htm
+"The Wrongs of Africa, Part the First",1786,William Roscoe,M,Roscoe_1786_1.txt,https://brycchancarey.com/slavery/roscoe1.htm
+"The Wrongs of Africa, Part the Second",1786,William Roscoe,M,Roscoe_1786_2.txt,https://brycchancarey.com/slavery/roscoe2.htm
+West-Indian Eclogues,1787,Edward Rushton,M,Rushton_1787.txt,https://brycchancarey.com/slavery/rushton.htm
+The Slave Ship,1846,Anonymous,Unkown,ANONYMOUS_1846.txt,https://brycchancarey.com/slavery/slaveship.htm
+To Thomas Clarkson. On the Final Passing of the Bill for the Abolition of the Slave Trade,1807,William Wordsworth,M,Wordsworth_1807_Clarkson.txt,https://brycchancarey.com/slavery/wordpoems.htm#clarkson
+To Toussaint L'Overture,1807,William Wordsworth,M,Wordsworth_1807_LOuverture.txt,https://brycchancarey.com/slavery/wordpoems.htm#overture
+A Poem on the Inhumanity of the Slave Trade,1788,Ann Yearsley,F,Yearsly_1788.txt,https://brycchancarey.com/slavery/yearsley1.htm
