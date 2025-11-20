@@ -6,14 +6,17 @@ This list contains several poems authored by both men and women, but for the sco
 
 The target audience is anyone who is interested in abolitionist or female literature, or anybode else who might find this data useful in any way.
 
-As mentioned before, the poems that were selected had the criterium of female authorship and token length. 
+As mentioned before, the poems that were selected had the selection criterium of female authorship and token length. 
 
-The data has manually been collected from [Brycchan Carey's website](https://brycchancarey.com/slavery/poetry.htm), who provides a preselection of antislavery poems in digital format. The metadata has also been manually created.
+The data has manually been collected from [Brycchan Carey's website](https://brycchancarey.com/slavery/poetry.htm), who provides a preselection of antislavery poems in digital format. The metadata has also been manually created. The poems have been copied to .txt files that can be found in the /data folder in this repo.
 
 ## Cleaning and Preproccesing
 In general the textual data was of very good quality. One data cleaning measure i took was removing whitespaces between word characters in titles for the purpose of better tokenization. (P O E M --> POEM)
 
 /t and /n have been removed from the text before tokenizing. The tokenization and lemmatization were performed using the spaCy library for python. The code can be reviewed in the Jupyter Notebook in this repo.
+
+### Data Formats
+The data is provided in .txt format. The metadata and the annotation data are provided as .csv files.
 
 ## Annotated Dataset Columns
 
@@ -30,11 +33,6 @@ In general the textual data was of very good quality. One data cleaning measure 
 | Tokens | List of tokenized words from the text |
 | POS | Part-of-speech tags for each token |
 | Lemmas | Lemmatized forms of the tokens |
-
-
-
-## Data Formats
-The data is provided in .txt format. The metadata and the annotation data are provided as .csv files.
 
 ## Metadata Columns
 
