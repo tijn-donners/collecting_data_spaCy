@@ -24,7 +24,7 @@ The data is provided in .txt format. The metadata and the annotation data are pr
 |--------|-------------|
 | Title | The full title of the literary work or poem |
 | Year | Year of publication |
-| Author | Name of the author(s) |
-| AuthorGender | Gender of the author (F for Female) |
+| Author | Name of the author |
+| AuthorGender | Gender of the author|
 | Filename | Name of the text file containing the work |
 | Link | URL to the online version of the text on Brycchan Carey's website|
