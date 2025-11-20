@@ -18,6 +18,13 @@ In general the textual data was of very good quality. One data cleaning measure 
 ## Data Formats
 The data is provided in .txt format. The metadata and the annotation data are provided as .csv files.
 
-## Columns
+## Metadata Columns
 
-INSERT COLUMN DESCRIPTION HERE!
+| Column | Description |
+|--------|-------------|
+| Title | The full title of the literary work or poem |
+| Year | Year of publication |
+| Author | Name of the author(s) |
+| AuthorGender | Gender of the author (F for Female) |
+| Filename | Name of the text file containing the work |
+| Link | URL to the online version of the text on Brycchan Carey's website|
